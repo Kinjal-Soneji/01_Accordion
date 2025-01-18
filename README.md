@@ -26,3 +26,6 @@ This project implements an interactive accordion component using HTML, CSS, and 
 ### Usage
 - Click on an accordion title to expand or collapse the corresponding content.
 - Only one section can be expanded at a time.
+- 
+  ## Acknowledgments
+- Font Awesome for the icons used in the project.
